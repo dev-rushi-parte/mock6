@@ -1,5 +1,5 @@
 {
-  "add": [
+  "furniture": [
     {
       "id": 1,
       "type": "table",
@@ -15,7 +15,7 @@
       "price": "2310"
     }
   ],
-  "wishlist": [
+  "wishlisted": [
     {
       "id": 1,
       "type": "bed",
