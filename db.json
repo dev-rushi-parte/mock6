@@ -18,15 +18,15 @@
   "wishlist ": [
     {
       "id": 1,
-      "type": "table",
-      "Year ": "2020",
+      "type": "bed",
+      "Year ": "2022",
       "description": "first add",
       "price": "2210"
     },
     {
       "id": 2,
-      "type": "bed",
-      "Year ": "2021",
+      "type": "table",
+      "Year ": "2025",
       "description": "second add",
       "price": "2310"
     }
